@@ -1,0 +1,2 @@
+help
+execute_script script5.txt

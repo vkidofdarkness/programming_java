@@ -1,0 +1,6 @@
+{"Organization":{"id":1549,"name":"AbobaCompany","coordinates":{"x":340,"y":250},"creationDate":"2023-03-22 18:34:26.132 UTC","annualTurnover":540230,"type":"COMMERCIAL","officialAddress":{"zipCode":454545}}}
+{"Organization":{"id":7955,"name":"ITMO","coordinates":{"x":235,"y":120},"creationDate":"2023-03-22 18:34:54.817 UTC","annualTurnover":4.5E7,"type":"GOVERNMENT","officialAddress":{"zipCode":353535}}}
+{"Organization":{"id":5401,"name":"Lol","coordinates":{"x":0,"y":666},"creationDate":"2023-03-22 19:12:39.877 UTC","annualTurnover":1.0E10,"type":"TRUST","officialAddress":{"zipCode":565656}}}
+{"Organization":{"id":9419,"name":"VK","coordinates":{"x":400,"y":400},"creationDate":"2023-03-23 13:32:41.87 UTC","annualTurnover":30000,"type":"COMMERCIAL","officialAddress":{"zipCode":343434}}}
+{"Organization":{"id":8931,"name":"aaa","coordinates":{"x":234,"y":200},"creationDate":"2023-05-15 19:28:48.323 UTC","annualTurnover":2323,"type":"TRUST","officialAddress":{"zipCode":565656}}}
+{"Organization":{"id":7166,"name":"aboba","coordinates":{"x":345,"y":212},"creationDate":"2023-05-15 22:53:27.342 UTC","annualTurnover":2334,"type":"TRUST","officialAddress":{"zipCode":454535}}}
